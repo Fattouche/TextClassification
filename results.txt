@@ -1,0 +1,12 @@
+1.
+Training with traindata.txt and trainlabels.txt
+Testing with traindata.txt and trainlabels.txt
+
+Accuracy: 96.58%
+
+2. 
+Training with traindata.txt and trainlabels.txt
+Testing with testdata.txt and testlabels.txt
+
+Accuracy: 80.20%
+
